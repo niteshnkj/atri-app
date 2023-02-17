@@ -9,5 +9,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "MilanGupta123",
+  "projectName": "atri-app"
 }
