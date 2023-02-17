@@ -1,0 +1,526 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+.p-Home.Flex3{
+    font-family:DM Sans ;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.p-Home.Div14 {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.p-Home.TextBox9 {
+    font-size: 18px;
+    
+}
+.p-Home.TextBox10 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 21px;
+}
+.p-Home.TextBox11 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 25px;
+}
+.p-Home.TextBox12 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px;
+}
+.p-Home.TextBox16 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox20 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox13 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px;
+}
+.p-Home.TextBox17 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox21 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox14 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px;
+}
+.p-Home.TextBox18 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox22 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox15 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px; 
+}
+.p-Home.TextBox19 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+}
+.p-Home.TextBox23 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px; 
+}
+.p-Home.About_us {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+
+}
+.p-Home.TextBox25 {
+    font-family: DM Sans;
+    font-weight: 500;
+    width: 80%;
+}
+.p-Home.TextBox26 {
+    font-family: DM Sans;
+    font-weight: 500;
+    width: 80%;
+}
+.p-Home.TextBox27 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 20px;
+}
+.p-Home.TextBox31 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+.p-Home.TextBox32 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    justify-content: center;
+    align-items: center;
+}
+.p-Home.TextBox33 {
+    font-weight: 700;
+    font-size: 24px;
+}
+.p-Home.TextBox34 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox35 {
+    font-weight: 700;
+    font-size: 24px;
+}
+.p-Home.TextBox36 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox37{
+    font-weight: 700;
+    font-size: 24px;
+} 
+.p-Home.TextBox38 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox39{
+    font-weight: 700;
+    font-size: 24px;
+} 
+.p-Home.TextBox40 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox41{
+    font-weight: 700;
+    font-size: 24px;
+} 
+.p-Home.TextBox42 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox43{
+    font-weight: 700;
+    font-size: 24px;
+} 
+.p-Home.TextBox44{
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox45{
+    font-weight: 700;
+    font-size: 24px;
+} 
+.p-Home.TextBox46 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox47{
+    font-weight: 700;
+    font-size: 24px;
+}
+.p-Home.TextBox48 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+} 
+.p-Home.TextBox55 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox56 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox57 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox58 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox49 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox51 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox52 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox61 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox54 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px; 
+}
+.p-Home.TextBox53 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px; 
+}
+.p-Home.TextBox50 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px; 
+}
+.p-Home.TextBox59 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 38px;
+max-width: 80%;
+}
+.p-Home.TextBox60 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 16px;
+color: #fffafa;
+max-width: 80%;
+}
+.p-Home.Button26 {
+    font-weight: 500;
+}
+.p-Home.Button27 {
+    font-weight: 500;
+}
+.p-Home.TextBox61 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 32px;
+}
+.p-Home.TextBox62 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 32px;
+}
+.p-Home.TextBox63 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #716f6f;
+}
+.p-Home.TextBox64 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 24px;
+}
+.p-Home.TextBox65 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 14px;
+}
+.p-Home.TextBox67 {
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-Home.TextBox68 {
+font-family: DM Sans;
+    font-weight: 500;
+    color: #595858;
+}
+.p-Home.TextBox69 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 32px;
+}
+.p-Home.TextBox72 {
+font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p-Home.TextBox74 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 26px;
+}
+.p-Home.TextBox73 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.p-Home.TextBox78 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p-Home.TextBox79 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox71 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p-Home.TextBox75 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox76 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p-Home.TextBox77 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox80 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p-Home.TextBox81{
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+}
+.p-Home.TextBox82 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 34px;
+    align-self: auto;
+}
+.p-Home.TextBox83 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+}
+.p-Home.TextBox84 {
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox85 {
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox86 {
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.Input1 {
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    border-color: #d9d9d9;
+}
+.p-Home.name {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p-Home.Emailaddress {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.p-Home.Phoneno {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p-Home.Location {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p-Home.Date {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p-Home.Schedule {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p-Home.note {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.p-Home.TextBox95 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+.p-Home.TextBox95 {
+   font-family: DM Sans;
+   font-weight: 500;
+}
+.p-Home.Page {
+   font-size: 20px;
+   font-family: DM Sans;
+   font-weight: 500;
+}
+.p-Home.Utility {
+    font-size: 20px;
+    font-family: DM Sans;
+    font-weight: 500; 
+}
+.p-Home.TextBox113 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 20px;
+}
+.p-Home.TextBox98 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox99 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox100 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox101 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox102 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox103 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox104 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox106 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox107 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox108 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox109 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox110 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox111 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+.p-Home.TextBox112 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+}
+
+
+
+
